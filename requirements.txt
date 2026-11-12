@@ -1,0 +1,12 @@
+# Inferred direct dependencies; no clean installation or version lock verified.
+hmmlearn
+lightgbm
+matplotlib
+numpy
+pandas
+pyarrow
+scikit-learn
+scipy
+torch
+tzdata
+xgboost
